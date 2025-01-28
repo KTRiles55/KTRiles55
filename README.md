@@ -18,7 +18,7 @@ Projects
     [Project Link](https://github.com/CTRLFreaksCSUN/GeoVision-AI/tree/main)
 *   ### Simple Minesweeper game
     
-    A C program that focuses primarily on user input within the OS command shell. This program emulates the real Minesweeper game by implementing its logic and mechanics. While constructing this project, I researched the game rules of Minesweeper and even played the game itself for a bit. Using this newfound knowledge, I decided to create a simplified version of this game with the same gameplay and rules. This project helped me gain experience with simple game design and programming.
+    A C program that focuses primarily on user input within the OS command shell. This program emulates the real Minesweeper game by implementing its logic and mechanics. While constructing this project, I researched the game rules of Minesweeper and even played the game itself for a bit. Using this newfound knowledge, I decided to create a simplified version of this game with the same gameplay and rules. This project helped me gain experience with simple game design and grow as a programmer.
     
     [Project Link](https://github.com/KTRiles55/minesweeper)
 *   ### Word Ladder program
@@ -33,7 +33,7 @@ Projects
     [Project Link](https://github.com/KTRiles55/Creature_Battle/tree/main)
 *   ### Simple Blackjack game
     
-    \[Brief description of Project 3\]
+    This project is made to resemble the real card game, Blackjack. It contains the same game rules, a dealer and you as the player. The player starts with 100 chips by default. In developing this project, I researched the rules of Blackjack and played the game in order to plan how to construct the code. Personally, I had a fun time building this program and it was one of my first Python projects.
     
     [Project Link](https://github.com/KTRiles55/Blackjack)
 
