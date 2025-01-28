@@ -33,7 +33,7 @@ Projects
     [Project Link](https://github.com/KTRiles55/Creature_Battle/tree/main)
 *   ### Simple Blackjack game
     
-    This project is made to resemble the real card game, Blackjack. It contains the same game rules, a dealer and you as the player. The player starts with 100 chips by default. In developing this project, I researched the rules of Blackjack and played the game in order to plan how to construct the code. Personally, I had a fun time building this program and it was one of my first Python projects.
+    This project is made to resemble the real card game, Blackjack. It contains the same game rules, a dealer and you as the player. The player starts with 100 chips by default. In developing this project, I researched the rules of Blackjack and played the game in order to plan how to construct the code. Personally, I had a fun time building this program and it is one of my first Python projects.
     
     [Project Link](https://github.com/KTRiles55/Blackjack)
 
