@@ -1,7 +1,7 @@
 About Me
 --------
 
-I am finishing my last semester of college and pursuing a Bachelor's Degree in Computer Science. Since my childhood, I have been interested in computer technology and developing software applications. Throughout the years, I've gained skills in programming with languages, such as C/C++, Java, Python and Javascript. I have also worked on desktop applications with other programmers on campus. These experiences helped shape me into a proficient programmer and team player. My goal is to get a career in Cyber Security Engineering.
+I am finishing my last semester of college and pursuing a Bachelor's Degree in Computer Science. Since my childhood, I have been interested in computer technology and developing software applications. Throughout the years, I've gained skills in programming with languages, such as C/C++, Java, Python and Javascript. I have also worked on desktop applications with other programmers on campus. These experiences helped shape me into a proficient programmer and team player. My goal is to get a career in the Information Technology industry that involves Cybersecurity and Software Engineering.
 
 Projects
 --------
