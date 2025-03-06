@@ -10,7 +10,7 @@ header {
         color: #fff;
         text-align: center;
         padding: 1em;
-	width:100%;
+	width:100vw;
 	top: 0;
 }
 
@@ -26,18 +26,18 @@ section {
 }
 
 section.projects {
-	width: 67%;
+	width: 67vw;
 }
 
 div.about {
-	width:70%;
+	width:70vw;
 	padding-bottom: 0px;
 	float: left;
 }
 
 div.portrait {
-	width:30%;
-	height:100%;
+	width:30vw;
+	height:100vh;
 	float:right;
 }
 
@@ -64,5 +64,5 @@ footer {
         padding: 1em;
         position: fixed;
         bottom: 0;
-        width: 100%;
+        width: 100vw;
 }
