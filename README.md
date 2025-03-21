@@ -8,7 +8,7 @@ Projects
 
 *   ### E-commerce Game Launcher App
     
-    The goal for this project is to provide end-users a way to purchase video games and play them without having to go outside. It also helps connect users with family and friends to enjoy games together both physically and virtually. I collaborated with a group of classmates and we each fulfilled roles while using the Scrum Agile project management strategy. I took on the Full Stack programming role; I was responsible for the frontend and backend of the program, as well as the unit testing and validation testing. This project taught me how to use task managing interfaces, such as Jira, and the importance of working with a team in the Software Engineering industry.
+    The goal for this project is to provide end-users a way to purchase video games and play them without having to go outside. It also helps connect users with family and friends to enjoy games together both physically and virtually. I took on the Full Stack programming role; I was responsible for designing the frontend to create more user-friendly interfaces and managing user authentication on the backend. I also set up unit tests and validation tests to check for program bugs. This project taught me how to use task managing interfaces, such as Jira, and gave me experience with Scrum Agile strategies in Software Engineering.
     
     [Project Link](https://github.com/KTRiles55/game-launcher)
 *   ### Image Location Searching AI
