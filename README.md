@@ -13,7 +13,7 @@ Projects
     [Project Link](https://github.com/KTRiles55/game-launcher)
 *   ### Image Location Searching AI
     
-    The main objective for this senior-design project is to construct an Artificial Intelligence that can take any image(*.png, *.jpg, etc..) and identify a specific location. I grouped up with some of my peers and worked on the Full Stack of the software. We chose to work with the Azure API for training the AI, the Google Maps API for the GPS Location services and MongoDB for the database. I've contributed to the frontend, AI training and storing data in the database. From working on this project, I gained hands-on experience with programming AI and utilizing the cloud for accessing API services.
+    The main objective for this project is to construct an Artificial Intelligence that can take any image and identify a specific location. I was responsible for designing the user interfaces, training the AI with an Azure Cognitive Services API, and authenticating users and encrypting data with MongoDB. In addition, I managed resources, secrets, and role-based access policies using Azure cloud services to make sure that all assets are secure and operational. From working on this project, I gained hands-on experience with programming AI, utilizing the cloud for accessing API services and maintaining the security of resources.
     
     [Project Link](https://github.com/CTRLFreaksCSUN/GeoVision-AI/tree/main)
 *   ### Simple Minesweeper game
