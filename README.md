@@ -1,10 +1,21 @@
 About Me
 --------
 
-As I am finishing my last semester of college and pursuing a Bachelor's Degree in Computer Science, I have developed a strong foundation in software development through hands-on experience with languages, such as C/C++, Java, Python and Javascript. I have contributed to the development of innovative software applications, where I become more competent with computer programming and working in collaborative settings. My area of expertise also includes creating, configuring and troubleshooting computer networks in Cybersecurity. I am eager to apply my technical abilities to gain practical skills, interact with specialized technology and contribute to real-world projects.
+As a Computer Science graduate with a Bachelor of Science degree, I am passionate about developing, troubleshooting, and analyzing network security systems. I possess expertise in network analysis, threat detection, vulnerability assessment, and incident response. Proficient in programming languages such as C/C++, Java, Python, HTML, and PHP, I have a strong foundation in application programming. My goal is to contribute to the Information Technology industry as a Cybersecurity Engineer, focusing on designing and optimizing application security networks to protect business assets from cyber threats.
 
 Projects
 --------
+*   ### Incident Report
+    
+    In this project, I demonstrated skills in incident response, analysis, and digital forensics to document a professional report on my findings from a DDoS attack incident on an imaginary multimedia business. I applied knowledge of core functions in the NIST CSF framework to record my observations and came up with strategies to improve the organization's security posture and efficiently recover from the incident. From this project, I have gained a stronger understanding of the NIST CSF framework and how each of its core functions can be used to develop strategies to minimize security risks.
+    
+    [Project Link](https://docs.google.com/document/d/1rO0-Uy2Pw2cmyAOhC3zk1vFTnAA1pQJuH_YKH3kChqg/edit?usp=sharing)
+
+*   ### Internal Security Audit
+    
+    The purpose of this project is to simulate a real-life internal security audit for a fictional organization called Botium Toys. I identified the scope and goal of the audit, existing assets, security controls, and best practices for business regulatory compliance. Then, I started a risk assessment to determine which risks should be prioritized for optimizing the security posture and that could harm the organization if left unchecked. Following this step, I filled in a checklist to keep track of the security controls and compliance best practices that the organization contains. The results from this checklist allowed me to come up with recommendations for improving the organization's security posture and compliance with security standards, such as PCI DSS, GDPR, and SOC type 1 and SOC type 2. This project gave me hands-on experience with the different phases of internal security audits and helped me gain profitable skills in Cybersecurity; I acquired skills in threat detection and analysis, risk assessment, and incident response planning. I have also developed a greater understanding of IT security frameworks and standards.
+    
+    [Project Link](https://docs.google.com/document/d/1m8cdDdzTk2K5HpqgWR9DIvHvfw5jkF_R5_gJIo6I5AY/edit?usp=sharing)
 
 *   ### E-commerce Game Launcher App
     
@@ -26,16 +37,6 @@ Projects
     This Java program is inspired by the famous Word Ladder game. It follows the same rules with the same objective, which is to find a sequence of words given two starting words. This program uses a path searching algorithm using Linked Lists and Stacks. Personally, this was a difficult project to understand and program, but then I finally found my own solution by drawing pictures of how the algorithm works. After finishing this project, my problem solving skills, programming skills and knowledge of abstract data structures have improved.
     
     [Project Link](https://github.com/KTRiles55/Word_Ladder)
-*   ### Creature Battle program
-    
-    This project leverages class polymorphism and inheritance in object-oriented programming by establishing an algorithm that allows the user to select two creatures to battle each other in a duel. Each creature possesses their own identity and stats. Once the two creatures are selected, they have a chance to duke it out in a 1-on-1 battle without any user intervention. This project improved my C++ programming skills and my knowledge of object-oriented programming.
-    
-    [Project Link](https://github.com/KTRiles55/Creature-Battle)
-*   ### Simple Blackjack game
-    
-    This project is made to resemble the real card game, Blackjack. It contains the same game rules, a dealer and you as the player. The player starts with 100 chips by default. In developing this project, I researched the rules of Blackjack and played the game in order to plan how to construct the code. Personally, I had a fun time building this program and it is one of my first Python projects.
-    
-    [Project Link](https://github.com/KTRiles55/Blackjack)
 
 Contact Me
 ----------
