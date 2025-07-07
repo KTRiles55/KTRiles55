@@ -1,7 +1,7 @@
 About Me
 --------
 
-As a Computer Science graduate with a Bachelor of Science degree, I am passionate about developing, troubleshooting, and analyzing network security systems. I possess expertise in network analysis, threat detection, vulnerability assessment, and incident response. Proficient in programming languages such as C/C++, Java, Python, HTML, and PHP, I have a strong foundation in application programming. My goal is to contribute to the Information Technology industry as a Cybersecurity Engineer, focusing on designing and optimizing application security networks to protect business assets from cyber threats.
+Computer Science graduate with a Bachelor of Science Degree and hands-on experience in network analysis, threat detection, vulnerability assessment, and incident response. Skilled in programming (C/C++, Java, Python, HTML, PHP) and applying application‑level security practices. Adept at troubleshooting, securing, and optimizing network and application infrastructures. Passionate about working as a Cybersecurity Engineer to design and strengthen application security systems that will safeguard business assets from evolving cyber threats.
 
 Projects
 --------
