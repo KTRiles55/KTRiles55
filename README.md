@@ -5,6 +5,12 @@ Computer Science graduate with a Bachelor of Science Degree and hands-on experie
 
 Projects
 --------
+*   ### Medical Booking Website
+    
+    This project allowed me to showcase my skills with dynamic web development frameworks (Next.js and React), Agile software methodologies, and implementing secure coding practices. I utilized the API routing features and server-side rendering from Next.js to build a more responsive website layout. In addition, I also used React for its complex state logic to manage user input and DOM event handling. For the sake of security best practices, I implemented multi-factor authentication (MFA) and token-based user authentication to control user access privileges between Patients and Doctors. I integrated an API that connects to Google Cloud Firebase services, which included OAuth 2.0 features to authenticate permissible users to access the web services. Firebase even includes a real-time database, in which I leveraged to securely store and retrieve user and booking data. In order to keep track of progress and the project's requirements, I organized my work using the Scrum software development strategy in Agile. I used Jira for logging my progress weekly in order to manage tasks efficiently and accurately. With this tool, I was able to keep track of which tasks are closely aligned with business requirements, prioritized over others, and subject to change. Working on this project made me more comfortable with React and Next.js for frontend development. It also provided me with an opportunity to determine the security aspects of each stage in the Software Development Life Cycle.
+    
+    [Project Link](https://github.com/KTRiles55/MediContact)
+
 *   ### Incident Report
     
     In this project, I demonstrated skills in incident response, analysis, and digital forensics to document a professional report on my findings from a DDoS attack incident on an imaginary multimedia business. I applied knowledge of core functions in the NIST CSF framework to record my observations and came up with strategies to improve the organization's security posture and efficiently recover from the incident. From this project, I have gained a stronger understanding of the NIST CSF framework and how each of its core functions can be used to develop strategies to minimize security risks.
